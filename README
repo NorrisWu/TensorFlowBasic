@@ -1,0 +1,13 @@
+User Guide
+===========
+
+Windows
+-------
+* Download Python3
+* Download or git clone this repo to a local folder
+* Open jupyter notebook and execute any of your models
+
+Linux & Mac
+-----------
+* git clone this repo
+* run any script to generate model
